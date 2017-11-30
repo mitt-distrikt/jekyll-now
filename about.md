@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Om oss
+permalink: /om-oss/
 ---
 
 Some information about you!
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[camilla@mitt-distrikt.no](mailto:camilla@mitt-distrikt.no)
