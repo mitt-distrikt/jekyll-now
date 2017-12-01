@@ -17,5 +17,6 @@ Vi ønsker å -- insert text --
 
 ### Kontakt oss
 
-[camilla@mitt-distrikt.no](mailto:camilla@mitt-distrikt.no)
+[camilla@mitt-distrikt.no](mailto:camilla@mitt-distrikt.no)  
+
 [knutole@mitt-distrikt.no](mailto:knutole@mitt-distrikt.no)
