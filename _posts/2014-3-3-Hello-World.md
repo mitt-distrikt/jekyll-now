@@ -8,6 +8,9 @@ Vi tilbyr tjenester som gjør det enklere for innbyggere å delta i prosesser so
 
 Vårt tilbud er en kombinasjon av skolering av egenskaper og utvikling av en skreddersydd app som er det digitale kommunikasjonsverktøyet for innspill fra innbyggere til utbyggere og kommunen. 
 
+![Screen Shot 2017-12-06 at 11.36.22.png]({{site.baseurl}}/_posts/Screen Shot 2017-12-06 at 11.36.22.png)
+
+
 ## Utbyggere
 - Digitalt verktøy for å dialog med innbyggere og interessenter
 - Kurs og workshops for å skape god utvikling av områder
