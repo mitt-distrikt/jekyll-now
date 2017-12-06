@@ -1,10 +1,23 @@
 ---
 layout: post
-title: You're up and running!
+title: Vårt verktøy for digital medvirkning
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Vi tilbyr tjenester som gjør det enklere for innbyggere å delta i prosesser som angår utvikling av eget nærmiljø, nabolag og hverdag. Vi tilbyr tjenester for utbyggere som ønsker å legge til rette for tidlig og god innbyggerdialog. Vi tilbyr tjenester til kommuner som ønsker bedre medvirkningsprosesser i både arealplansaker, samfunnsutvikling og kommuneplanarbeid. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Vårt tilbud er en kombinasjon av skolering av egenskaper og utvikling av en skreddersydd app som er det digitale kommunikasjonsverktøyet for innspill fra innbyggere til utbyggere og kommunen. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Utbyggere
+Digitalt verktøy for å dialog med innbyggere og interessenter
+Kurs og workshops for å skape god utvikling av områder
+Rådgivning og veiledning i prosessarbeid i samarbeid med innbyggere og kommunen
+
+Kommunen
+Digitalt verktøy for å dialog med innbyggere og interessenter
+Kurs og workshops for å skape god utvikling av områder og hele kommunen
+Rådgivning og veiledning i prosessarbeid i samarbeid med innbyggere og utbyggere
+
+Innbyggere
+Workshops, kurs og verktøy for å si sin mening om utviklingsprosjekter i sitt nærmiljø
+Støtte til vel-foreninger, råd, utvalg og enkeltinitiativ i medvirkningsarbeid
