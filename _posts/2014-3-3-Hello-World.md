@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vårt verktøy for digital medvirkning
+title: Verktøy for digital medvirkning
 published: true
 ---
 
@@ -8,16 +8,16 @@ Vi tilbyr tjenester som gjør det enklere for innbyggere å delta i prosesser so
 
 Vårt tilbud er en kombinasjon av skolering av egenskaper og utvikling av en skreddersydd app som er det digitale kommunikasjonsverktøyet for innspill fra innbyggere til utbyggere og kommunen. 
 
-Utbyggere
-Digitalt verktøy for å dialog med innbyggere og interessenter
-Kurs og workshops for å skape god utvikling av områder
-Rådgivning og veiledning i prosessarbeid i samarbeid med innbyggere og kommunen
+## Utbyggere
+- Digitalt verktøy for å dialog med innbyggere og interessenter
+- Kurs og workshops for å skape god utvikling av områder
+- Rådgivning og veiledning i prosessarbeid i samarbeid med innbyggere og kommunen
 
-Kommunen
-Digitalt verktøy for å dialog med innbyggere og interessenter
-Kurs og workshops for å skape god utvikling av områder og hele kommunen
-Rådgivning og veiledning i prosessarbeid i samarbeid med innbyggere og utbyggere
+## Kommunen
+- Digitalt verktøy for å dialog med innbyggere og interessenter
+- Kurs og workshops for å skape god utvikling av områder og hele kommunen
+- Rådgivning og veiledning i prosessarbeid i samarbeid med innbyggere og utbyggere
 
-Innbyggere
-Workshops, kurs og verktøy for å si sin mening om utviklingsprosjekter i sitt nærmiljø
-Støtte til vel-foreninger, råd, utvalg og enkeltinitiativ i medvirkningsarbeid
+## Innbyggere
+- Workshops, kurs og verktøy for å si sin mening om utviklingsprosjekter i sitt nærmiljø
+- Støtte til vel-foreninger, råd, utvalg og enkeltinitiativ i medvirkningsarbeid
