@@ -15,16 +15,19 @@ published: true
 
 ## Team
 
+
+<span style="display: inline-block;">
 **Camilla Ringdal Dukefos** 
-![]({{site.baseurl}}/images/profile.camilla.png)
+<img style="float: left; margin-right: 20px; margin-bottom: 50px;" src="/images/profile.camilla.png">
 MA Tverrfaglige kulturstudier og BA Psykologi, NTNU. 10 års arbeidserfaring fra organisasjoner og initiativtaker til Reell medvirkning. Bred erfaring fra medvirkningsarbeid og tilrettelegging for gode prosesser for å finne konstruktive løsninger. 
+</span>
 
 
-
-
+<span style="display: inline-block;">
 **Knut Ole Sjøli** 
-![]({{site.baseurl}}/images/profile.knutole.png)
+<img style="float: left; margin-right: 20px; margin-bottom: 50px;" src="/images/profile.knutole.png">
 Gründer og teknisk ansvarlig i Mapic.io, et selskap som lager løsninger i åpen kildekode for geografiske data. Lang erfaring fra programvareutvikling, oppstartsbedrifter, og digitale og innovative løsninger. Engasjert i demokratisering, medvirkning og innovasjon.
+</span>
 
 ## Visjon
 
