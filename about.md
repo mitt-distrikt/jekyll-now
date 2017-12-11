@@ -33,6 +33,6 @@ Vår visjon er å sikre at alle skal kunne delta i utvikling av eget nærmiljø 
 
 ### Kontakt oss
 
-[Daglig leder, Camilla Dukefos](mailto:camilla@mitt-distrikt.no)  
+[Innhold, leder, Camilla Dukefos](mailto:camilla@mitt-distrikt.no)  
 
-[Teknisk ansvarlig, Knut Ole Sjøli](mailto:knutole@mitt-distrikt.no)
+[Teknologi, Knut Ole Sjøli](mailto:knutole@mitt-distrikt.no)
